@@ -1,0 +1,19 @@
+c:\users\linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\bin\Debug\Mail Client v2.exe.config
+c:\users\linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\bin\Debug\Mail Client v2.exe
+c:\users\linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\bin\Debug\Mail Client v2.pdb
+c:\users\linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.csprojResolveAssemblyReference.cache
+c:\users\linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail_Client_v2.Properties.Resources.resources
+c:\users\linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.csproj.GenerateResource.Cache
+c:\users\linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.exe
+c:\users\linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.pdb
+C:\Users\Linas\documents\visual studio 2015\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail_Client_v2.Form1.resources
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\bin\Debug\Mail Client v2.exe.config
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\bin\Debug\Mail Client v2.exe
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\bin\Debug\Mail Client v2.pdb
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.csprojResolveAssemblyReference.cache
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail_Client_v2.Form1.resources
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail_Client_v2.Properties.Resources.resources
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.csproj.GenerateResource.Cache
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.csproj.CoreCompileInputs.cache
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.exe
+C:\Users\Linas\Documents\Visual Studio 2017\Projects\Mail Client v2\Mail Client v2\obj\Debug\Mail Client v2.pdb
